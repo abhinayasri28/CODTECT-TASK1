@@ -1,8 +1,13 @@
 **Name:**ABHINAYASRI BOYELLA
+
 **Company:**CODTECH IT SOLUTIONS
+
 **ID:**CT08DS6836
+
 **Domain:**VLSI
+
 **Duration:**August to september 2024
+
 **Mentor:**
 
 

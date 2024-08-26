@@ -10,7 +10,7 @@
 
 ###Project:Digital Logic Design With Verilog
 
-###Ojective
+###Objective
 The objective of this project is to perform digital logic design and effectively implement and simulate complex digital systems using Verilog HDL. This course aims to equip students with the skills to design, analyze, and optimize digital circuits for real-world applications.
 
 ###Key Activities:

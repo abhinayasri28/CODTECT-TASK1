@@ -8,8 +8,6 @@
 
 **Duration:**August to september 2024
 
-**Mentor:**
-
 
 ##Overview of the project
 
